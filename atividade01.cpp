@@ -17,7 +17,7 @@ void chamarFors(){
    int semanas = 4, diasDaSemana = 7;
  
    for (int i = 1; i <= semanas; ++i) {
-       cout << "Semana: " << i << endl;
+       cout << "Seman: " << i << endl;
        for (int j = 1; j <= diasDaSemana; ++j) {
            cout <<"    Dia:" << j << endl;
        }
